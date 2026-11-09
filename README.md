@@ -1,2 +1,1 @@
-# ff97e532-6c46-474f-ae06-9909ad94b336-5ddf39f1-b7bc-4736-9561-f8ed2e2310ac
-https://sonar.server.examly.io/dashboard?id=iamneo-production-2_ff97e532-6c46-474f-ae06-9909ad94b336-5ddf39f1-b7bc-4736-9561-f8ed2e2310ac&amp;codeScope=overall
+
