@@ -1,0 +1,33 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# data handling and machine learning
+pandas
+numpy
+scikit-learn
+joblib
+
+# database
+sqlalchemy
+
+# document reading and semantic search
+pypdf
+chromadb
+torch
+sentence-transformers
+
+# agents and language model
+langgraph
+langgraph-checkpoint-sqlite
+google-genai
+python-dotenv
+
+# services
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+
+# testing
+pytest
+httpx
